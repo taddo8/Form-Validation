@@ -1,0 +1,17 @@
+#main{
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid gray;
+    width:60%;
+}
+
+
+.container #error{
+    margin-bottom: 20px;
+    padding: 0px;
+    background: #fe8b8e;
+    font-size: 14px;
+    text-align: center;
+    transition: all 0.5s ease;
+
+}
